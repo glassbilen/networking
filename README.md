@@ -1,4 +1,4 @@
-# networking
+# Networking Library
 A simple networking library. This is a fairly old library of mine, simply cleaned up.
 
 # Examples
